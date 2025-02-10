@@ -68,33 +68,33 @@ Recently the company has faced a unforeseen loss by opening store in America bas
 
 Project kick off session, where you should get clear of for what and why this project and all other questions you have with regards to the project
 
-Questions to ask before starting with dashboard
-What is the objective of building this PowerBi dashboard?
-In what terms the success of this project will be measured?
-What will be time dead-line of the project?
-do the stakeholders expecting pre-view before the actual release?
-What are all the hopes stakeholders have out of this project?
-what are all fears the stakeholder have in terms of building this dashboard?
-Who are all will be using this dashboard and for what purpose?
-what are all expectation the stakeholders have, by the completion of this project?
-What can go wrong while building this project?
-what are all the resources/ data needed to build this dashboard?
-is there any inputs from stakeholders in terms of design and views of the dashboard?
-After the project kick off meetings, the data engineering team has given the data as per the request of data analytics team, let’s explore them.
+
 
 Importing data into PowerBi
 As the database is MySQL in this project, we need to import the datasets from Mysql database to PowerBi by providing the Database access credential
 Dashboard designing
 Based on the mock-ups received as a requirement, the team will start designing the visuals and create measurements as and when required
 
-Home view
-In Home view, all the views button will be available. Users will land on a specific view page by clicking the button
+#Key Achievements
 
-Info
-Finance View
-Sales View
-Marketing View
-Supply chain View
-Executive View
-Stakeholder Request
-Support
+Customized Dashboard: Developed a multi-functional Power BI dashboard to meet AtliQ Hardware's needs, allowing them to gain insights into their various departments.
+
+Data Integration: Data was sourced from disparate locations, including Excel/CSV files and a MySQL database, and seamlessly integrated into Power BI for comprehensive analysis.
+
+Data Model and Visualizations: A robust data model was developed within Power BI, enabling the creation of visually appealing and interactive visualizations to represent key performance indicators (KPIs).
+
+Performance Optimization: DAX Studio significantly improved the dashboard's performance, resulting in a 5% increase in report efficiency.
+
+Data-Driven Decisions: AtliQ Hardware can now analyze trends across different departments, empowering them to make data-driven decisions.
+
+#Data Sources The dashboard gathers data from two primary sources:
+
+Excel/CSV Files: Targets and Market Share data and related information are sourced from Excel and CSV files.
+
+MySQL Database: Facts and Dimensions for all departments are retrieved from a MySQL database.
+
+#Performance Optimization:
+
+I have optimized the dashboard's performance using DAX Studio, resulting in a 5% increase in report efficiency. This optimization ensures a seamless experience while exploring the data and visualizations.
+
+
