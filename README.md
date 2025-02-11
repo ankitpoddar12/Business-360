@@ -2,8 +2,11 @@
 
 Business Insights 360
 
-
 Project Overview
+
+![Screenshot_2](https://github.com/user-attachments/assets/1097b776-2393-4a3b-b691-7c52fd917385)
+
+
 
 AtliQ Hardware has grown rapidly in recent years, and they have decided to implement data analytics using PowerBi in their company for the first time to surpass their competitors in the market and make data-driven decisions. This project is hoped to answer stakeholders' questions about all aspects of finance, sales, marketing, and supply chain.
 
